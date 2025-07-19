@@ -1,4 +1,4 @@
-# 🛉 Folder Organizer 
+# 🛉 File Organizer 
 
 This simple Python script automatically organizes the files in a specified folder (like your **Downloads** folder) into categorized subfolders based on file types — such as Images, Documents, Videos, and more.
 
